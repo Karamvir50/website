@@ -4,9 +4,12 @@ int main()
 
 {
 	
-	printf("Hello world!\n");
+	printf("Fare thee well!\n");
 	
-	
+        printf("Hello world!\n");
+        
+	 printf("Hello people!\n");
+
 	return 0;
 	
 	
